@@ -2,10 +2,10 @@
 
 1. 사용자 관리 API
 * 전체 사용자 목록 조회 
-- GET HTTP Method, http://localhost:8088/users
+ - GET HTTP Method, http://localhost:8088/users
 * 개별 사용자 조회 
-- GET HTTP Method, http://localhost:8088/users/{id}
+ - GET HTTP Method, http://localhost:8088/users/{id}
 * 사용자 삭제
-- DELETE HTTP Method, http://localhost:8088/users/{id}
+ - DELETE HTTP Method, http://localhost:8088/users/{id}
 * 사용자 정보 수정
-- PUT HTTP Method, http://localhost:8088/users/{id}
+ - PUT HTTP Method, http://localhost:8088/users/{id}
